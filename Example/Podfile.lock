@@ -1,0 +1,27 @@
+PODS:
+  - CCYunKit (0.1.0):
+    - Masonry
+    - MJRefresh
+  - Masonry (1.1.0)
+  - MJRefresh (3.7.5)
+
+DEPENDENCIES:
+  - CCYunKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - MJRefresh
+
+EXTERNAL SOURCES:
+  CCYunKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CCYunKit: 1cf56359fbcdc3685b7f955468f2cf22460ea3b9
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+
+PODFILE CHECKSUM: 4c6a67fde1807510b2dddb6f9aade43fd4c22963
+
+COCOAPODS: 1.11.3
