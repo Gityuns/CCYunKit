@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = "CCYunKit"
 
-  s.homepage         = 'https://github.com/Gityuns/CCYunKit'
+  s.homepage         = 'https://github.com/acct<blob>=<Gityuns>/CCYunKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'act=Gityuns' => '2434783536@qq.com' }
-  s.source           = { :git => 'https://github.com/Gityuns/CCYunKit.git', :tag => s.version.to_s }
+  s.author           = { 'acct<blob>=<Gityuns>' => '2434783536@qq.com' }
+  s.source           = { :git => 'https://github.com/acct<blob>=<Gityuns>/CCYunKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
